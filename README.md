@@ -1,8 +1,6 @@
 
 # Readme
 
-#### Hand in by 208483008,322697483 and 207900440
-
 ## preface
 
 This is a readme for our oop-Ex1- offline elevator algorithm.
