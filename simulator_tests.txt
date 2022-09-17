@@ -1,0 +1,10 @@
+Ex1 - OOP Simulator
+Time: start: 0.0,  end: 1104.1840186,  dt: 1.0
+Building: Building [-2,10]
+0) ex1.Elevator_A, Elev_, id,1,  speed, 1.0, open: 2.0,  start: 3.0, close: 2.0,  stop: 3.0
+1) ex1.Elevator_A, Elev_, id,2,  speed, 2.0, open: 2.0,  start: 3.0, close: 2.0,  stop: 3.0
+
+Call log: Elevator log, size: 100
+************* Simulation Ended ************
+Code Owners,1111,2222,3333,  Building_file,B2.json,  Calls,out.csv
+Total waiting time: 4926.0,  average waiting time per call: 49.26,  unCompleted calls,0,  certificate, -20459496
